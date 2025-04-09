@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.primary-color{
+    color:rgb(255, 166, 43);
+}
+
+.bg-secondary-color{
+    background-color: rgb(28,26,156);
+}
